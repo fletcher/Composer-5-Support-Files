@@ -1,0 +1,115 @@
+{
+	"comment" : "Default theme for MultiMarkdown Composer v4 by Fletcher T. Penney",
+
+	"windowBackgroundColor" : "ececeb",
+	"lightWindow" : true,
+
+	"backgroundColor" : "fefefe",
+	"foregroundColor" : "222",
+
+	"caretColor" : "000",
+	"selectionColor" : "c8c8c8",
+
+	"searchfieldBackgroundColor" : "ececeb",
+	"searchfieldTextColor" : "000000",
+	"searchfieldHighlightColor" : "999",
+	"searchfieldInsertionPointColor" : "000",
+
+	"sidebarBackgroundColor" : "ececeb",
+	"sidebarTextColor" : "000",
+	"sidebarTextColorHighlighted" : "444",
+	"sidebarTextColorHighlightedInactive" : "666",
+	"sidebarHighlightColor" : "38afec",
+	"sidebarHighlightColorInactive" : "c8dedf",
+	"sidebarEditHighlightColor" : "999",
+
+	"strong" : {
+		"bold" : 1
+	},
+	"emphasis" : {
+		"italic" : 1
+	},
+	"superscript" : {
+		"superscript" : 1
+	},
+	"subscript" : {
+		"superscript" : -1
+	},
+	"criticAddition" : {
+		"foregroundColor" : "00bb00"
+	},
+	"criticDeletion" : {
+		"foregroundColor" : "dd0000"
+	},
+	"criticSubstitution" : {
+		"foregroundColor" : "ff8600"
+	},
+	"criticHighlight" : {
+		"foregroundColor" : "aa53a9"
+	},
+	"criticComment" : {
+		"foregroundColor" : "0000bb"
+	},
+	"codeBlock" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"foregroundColor" : "40607f",
+		"backgroundColor" : "ddecf0f0"
+	},
+	"codeSpan" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"foregroundColor" : "40607f",
+		"backgroundColor" : "ddecf0f0",
+		"mono"  : 1
+	},
+	"heading" : {
+		"bold" : 1,
+		"backgroundColor" : "ddecf0f0"
+	},
+	"math" : {
+		"foregroundColor" : "40607f"
+	},
+	"table" : {
+		"backgroundColor" : "ddecf0f0"
+	},
+	"pairs_disabled" : {
+		"foregroundColor" : "40607F"
+	},
+	"angles" : {
+		"foregroundColor" : "40607F"
+	},
+	"braces" : {
+		"foregroundColor" : "40607F"
+	},
+	"brackets" : {
+		"foregroundColor" : "40607F"
+	},
+	"quoteDouble" : {
+		"foregroundColor" : "40607F"
+	},
+	"quoteSingle" : {
+		"foregroundColor" : "40607F"
+	},
+	"markup" : {
+		"foregroundColor" : "40607F"
+	},
+	"metadata" : {
+		"foregroundColor" : "969999"
+	},
+	"definitionAbbreviation" : {
+		"foregroundColor" : "40607F"
+	},
+	"definitionCitation" : {
+		"foregroundColor" : "40607F"
+	},
+	"definitionFootnote" : {
+		"foregroundColor" : "40607F"
+	},
+	"definitionGlossary" : {
+		"foregroundColor" : "40607F"
+	},
+	"definitionLink" : {
+		"foregroundColor" : "40607F"
+	}
+}

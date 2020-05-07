@@ -1,0 +1,146 @@
+{
+	"comment" : "Solarized Dark theme for MultiMarkdown Composer v4 by Fletcher T. Penney. Modified for nvUltra.",
+
+	"windowBackgroundColor" : "002b36",
+	"darkWindow" : true,
+
+	"backgroundColor" : "002b36",
+	"foregroundColor" : "839496",
+
+	"caretColor" : "859496",
+	"selectionColor" : "40565B",
+
+	"searchfieldBackgroundColor" : "002b36",
+	"searchfieldTextColor" : "839496",
+	"searchfieldHighlightColor" : "496268",
+	"searchfieldInsertionPointColor" : "839496",
+
+	"sidebarBackgroundColor" : "002b36",
+	"sidebarTextColor" : "839496",
+	"sidebarTextColorHighlighted" : "839496",
+	"sidebarTextColorHighlightedInactive" : "839496",
+	"sidebarHighlightColor" : "268bd2",
+	"sidebarHighlightColorInactive" : "cacaca",
+	"sidebarEditHighlightColor" : "496268",
+	"sidebarEditInsertionPointColor" : "496268",
+
+	"strong" : {
+		"bold" : 1
+	},
+	"emphasis" : {
+		"italic" : 1
+	},
+	"superscript" : {
+		"superscript" : 1
+	},
+	"subscript" : {
+		"superscript" : -1
+	},
+	"criticAddition" : {
+		"foregroundColor" : "2aa198"
+	},
+	"criticDeletion" : {
+		"foregroundColor" : "dc322f"
+	},
+	"criticSubstitution" : {
+		"foregroundColor" : "cb4b16"
+	},
+	"criticHighlight" : {
+		"foregroundColor" : "6c71c4"
+	},
+	"criticComment" : {
+		"foregroundColor" : "268bd2"
+	},
+	"blockquote" : {
+		"foregroundColor" : "93a1a1",
+		"leftIndent" : 30.0,
+		"rightIndent" : 30.0
+	},
+	"bulletList" : {
+		"foregroundColor" : "b58900"
+	},
+	"codeBlock" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"foregroundColor" : "2aa198",
+		"backgroundColor" : "073642"
+	},
+	"codeSpan" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"foregroundColor" : "2aa198",
+		"backgroundColor" : "073642",
+		"mono"  : 1
+	},
+	"heading" : {
+		"bold" : 1,
+		"foregroundColor" : "93a1a1",
+		"backgroundColor" : "073642"
+	},
+	"math" : {
+		"foregroundColor" : "cb4b16"
+	},
+	"metadata" : {
+		"foregroundColor" : "586e75"
+	},
+	"orderedList" : {
+		"foregroundColor" : "b58900"
+	},
+	"table" : {
+		"backgroundColor" : "073642"
+	},
+	"pairs_disabled" : {
+		"foregroundColor" : "40607F"
+	},
+	"angles" : {
+		"foregroundColor" : "268bd2"
+	},
+	"braces" : {
+		"foregroundColor" : "268bd2"
+	},
+	"brackets" : {
+		"foregroundColor" : "268bd2"
+	},
+	"quoteDouble" : {
+		"foregroundColor" : "586e75"
+	},
+	"quoteSingle" : {
+		"foregroundColor" : "586e75"
+	},
+	"abbreviation" : {
+		"foregroundColor" : "b58900"
+	},
+	"definitionAbbreviation" : {
+		"foregroundColor" : "b58900"
+	},
+	"citation" : {
+		"foregroundColor" : "d33682"
+	},
+	"definitionCitation" : {
+		"foregroundColor" : "d33682"
+	},
+	"footnote" : {
+		"foregroundColor" : "2aa198"
+	},
+	"definitionFootnote" : {
+		"foregroundColor" : "2aa198"
+	},
+	"glossary" : {
+		"foregroundColor" : "dc322f"
+	},
+	"definitionGlossary" : {
+		"foregroundColor" : "dc322f"
+	},
+	"image" : {
+		"foregroundColor" : "cb4b16"
+	},
+	"definitionLink" : {
+		"foregroundColor" : "268bd2"
+	},
+	"variable" : {
+		"foregroundColor" : "859900"
+	},
+	"markup" : {
+		"foregroundColor" : "586e75"
+	}
+}

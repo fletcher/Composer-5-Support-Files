@@ -1,0 +1,110 @@
+{
+	"comment" : "Minimalist theme for nvUltra designed for printing documents by Fletcher T. Penney",
+
+	"windowBackgroundColor" : "ececeb",
+
+	"backgroundColor" : "fefefe",
+	"foregroundColor" : "222",
+
+	"caretColor" : "000",
+	"selectionColor" : "999",
+
+	"searchfieldBackgroundColor" : "ececeb",
+	"searchfieldTextColor" : "000000",
+	"searchfieldHighlightColor" : "999",
+	"searchfieldInsertionPointColor" : "000",
+
+	"sidebarBackgroundColor" : "ececeb",
+	"sidebarTextColor" : "000",
+	"sidebarTextColorHighlighted" : "444",
+	"sidebarTextColorHighlightedInactive" : "666",
+	"sidebarHighlightColor" : "38afec",
+	"sidebarHighlightColorInactive" : "c8dedf",
+	"sidebarEditHighlightColor" : "999",
+
+	"fontSize" : 11,
+	"strong" : {
+		"bold" : 1
+	},
+	"emphasis" : {
+		"italic" : 1
+	},
+	"superscript" : {
+		"superscript" : 1
+	},
+	"subscript" : {
+		"superscript" : -1
+	},
+	"criticAddition" : {
+		"foregroundColor" : "00bb00"
+	},
+	"criticDeletion" : {
+		"foregroundColor" : "dd0000"
+	},
+	"criticSubstitution" : {
+		"foregroundColor" : "ff8600"
+	},
+	"criticHighlight" : {
+		"foregroundColor" : "aa53a9"
+	},
+	"criticComment" : {
+		"foregroundColor" : "0000bb"
+	},
+	"blockquote" : {
+		"leftIndent" : 30.0,
+		"rightIndent" : 30.0
+	},
+	"bulletList" : {
+	},
+	"codeBlock" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92
+	},
+	"codeSpan" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"mono"  : 1
+	},
+	"heading" : {
+		"bold" : 1
+	},
+	"markup" : {
+		"foregroundColor" : "93a1a1"
+	},
+	"math" : {
+	},
+	"metadata" : {
+	},
+	"orderedList" : {
+	},
+	"table" : {
+	},
+	"pairs" : {
+	},
+	"angles" : {
+	},
+	"brackets" : {
+	},
+	"abbreviation" : {
+	},
+	"definitionAbbreviation" : {
+	},
+	"citation" : {
+	},
+	"definitionCitation" : {
+	},
+	"footnote" : {
+	},
+	"definitionFootnote" : {
+	},
+	"glossary" : {
+	},
+	"definitionGlossary" : {
+	},
+	"image" : {
+	},
+	"definitionLink" : {
+	},
+	"variable" : {
+	}
+}

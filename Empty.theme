@@ -1,0 +1,110 @@
+{
+	"comment" : "Minimal theme to use as a starting point for custom theme development",
+
+	"windowBackgroundColor" : "fff",
+
+	"backgroundColor" : "fff",
+	"foregroundColor" : "000",
+
+	"caretColor" : "000",
+	"selectionColor" : "657b8399",
+
+	"searchfieldBackgroundColor" : "fff",
+	"searchfieldTextColor" : "000",
+	"searchfieldHighlightColor" : "aaa",
+	"searchfieldInsertionPointColor" : "fff",
+
+	"sidebarBackgroundColor" : "ededed",
+	"sidebarTextColor" : "000",
+	"sidebarTextColorHighlighted" : "fff",
+	"sidebarTextColorHighlightedInactive" : "000",
+	"sidebarHighlightColor" : "3875d7",
+	"sidebarHighlightColorInactive" : "d4d4d4",
+	"sidebarEditHighlightColor" : "aaa",
+	"sidebarEditInsertionPointColor" : "fff",
+
+	"strong" : {
+		"bold" : 1
+	},
+	"emphasis" : {
+		"italic" : 1
+	},
+	"superscript" : {
+		"superscript" : 1
+	},
+	"subscript" : {
+		"superscript" : -1
+	},
+	"criticAddition" : {
+		"foregroundColor" : "00bb00"
+	},
+	"criticDeletion" : {
+		"foregroundColor" : "dd0000"
+	},
+	"criticSubstitution" : {
+		"foregroundColor" : "ff8600"
+	},
+	"criticHighlight" : {
+		"foregroundColor" : "aa53a9"
+	},
+	"criticComment" : {
+		"foregroundColor" : "0000bb"
+	},
+	"blockquote" : {
+		"leftIndent" : 30.0,
+		"rightIndent" : 30.0
+	},
+	"bulletList" : {
+	},
+	"codeBlock" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92
+	},
+	"codeSpan" : {
+		"fontName" : "Courier",
+		"fontScale" : 0.92,
+		"mono"  : 1
+	},
+	"heading" : {
+		"bold" : 1
+	},
+	"markup" : {
+		"foregroundColor" : "93a1a1"
+	},
+	"math" : {
+	},
+	"metadata" : {
+	},
+	"orderedList" : {
+	},
+	"table" : {
+	},
+	"pairs" : {
+	},
+	"angles" : {
+	},
+	"brackets" : {
+	},
+	"abbreviation" : {
+	},
+	"definitionAbbreviation" : {
+	},
+	"citation" : {
+	},
+	"definitionCitation" : {
+	},
+	"footnote" : {
+	},
+	"definitionFootnote" : {
+	},
+	"glossary" : {
+	},
+	"definitionGlossary" : {
+	},
+	"image" : {
+	},
+	"definitionLink" : {
+	},
+	"variable" : {
+	}
+}
