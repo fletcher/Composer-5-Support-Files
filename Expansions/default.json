@@ -1,0 +1,33 @@
+{
+   "comment":"Sample Text Expansions file for MultiMarkdown Composer v4",
+   "expansions":[
+      {
+         "key":".mmd",
+         "expansion":"MultiMarkdown"
+      },
+      {
+         "key":".latex",
+         "expansion":"LaTeX"
+      },
+      {
+         "key":".date",
+         "expansion":"%B %e, %Y"
+      },
+      {
+         "key":".ds",
+         "expansion":"%Y-%m-%d"
+      },
+      {
+         "key":".dts",
+         "expansion":"%Y-%m-%d %I:%M%p"
+      },
+      {
+         "key":".dt",
+         "expansion":"%m/%d/%Y %H:%M:%S"
+      },
+      {
+         "key":".now",
+         "expansion":"%snippet:.date% %B %snippet:.dt%"
+      }
+   ]
+}
