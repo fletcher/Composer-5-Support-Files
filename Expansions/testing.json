@@ -1,5 +1,6 @@
 {
    "comment":"Text Expansions for various testing situations for MultiMarkdown Composer v4",
+   "author" : "Fletcher T. Penney",
    "expansions":[
       {
          "key":".test",
