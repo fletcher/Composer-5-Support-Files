@@ -1,0 +1,9 @@
+{
+   "comment":"Sample Text Expansions file for MultiMarkdown Composer v4",
+   "expansions":[
+      {
+         "key":".d",
+         "expansion":"@done(%Y-%m-%d)"
+      }
+   ]
+}
