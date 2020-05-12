@@ -1,5 +1,6 @@
 {
 	"comment" : "Minimal theme to use as a starting point for custom theme development",
+	"author" : "Fletcher T. Penney",
 
 	"windowBackgroundColor" : "fff",
 

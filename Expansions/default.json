@@ -1,5 +1,6 @@
 {
    "comment":"Sample Text Expansions file for MultiMarkdown Composer v4",
+   "author" : "Fletcher T. Penney",
    "expansions":[
       {
          "key":".mmd",
