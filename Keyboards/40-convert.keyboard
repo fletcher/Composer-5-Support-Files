@@ -1,0 +1,32 @@
+[
+	{
+		"title" : "* -",
+		"isCustomButton" : true,
+		"action" : "convertRangeToBulletedList:"
+	},
+	{
+		"title" : "1. -",
+		"isCustomButton" : true,
+		"action" : "convertRangeToEnumeratedList:"
+	},
+	{
+		"title" : "> -",
+		"isCustomButton" : true,
+		"action" : "convertRangeToBlockquote:"
+	},
+	{
+		"title" : "P",
+		"isCustomButton" : true,
+		"action" : "convertRangeToPlainText:"
+	},
+	{
+		"title" : "#",
+		"isCustomButton" : true,
+		"action" : "convertRangeToATX:"
+	},
+	{
+		"title" : "```",
+		"isCustomButton" : true,
+		"action" : "convertRangeToFencedBlock:"
+	}
+]

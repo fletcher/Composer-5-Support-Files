@@ -1,0 +1,33 @@
+[
+	{
+		"title" : "[",
+		"isTextButton" : true
+	},
+	{
+		"title" : "]",
+		"isTextButton" : true
+	},
+	{
+		"title" : "(",
+		"isTextButton" : true
+	},
+	{
+		"title" : ")",
+		"isTextButton" : true
+	},
+	{
+		"title" : "<",
+		"isTextButton" : true
+	},
+	{
+		"title" : ">",
+		"isTextButton" : true
+	},
+	{
+		"isTabButton" : true
+	},
+	{
+		"title" : "|",
+		"isTextButton" : true
+	}
+]

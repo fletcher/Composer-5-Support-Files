@@ -1,0 +1,12 @@
+[
+	{
+		"title" : "{>>",
+		"isCustomButton" : true,
+		"action" : "applyCriticMarkupComment:"
+	},
+	{
+		"title" : "{==",
+		"isCustomButton" : true,
+		"action" : "applyCriticMarkupHighlight:"
+	}
+]
