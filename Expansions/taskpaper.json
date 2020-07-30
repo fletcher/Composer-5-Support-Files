@@ -1,9 +1,43 @@
 {
-   "comment":"Sample Text Expansions file for MultiMarkdown Composer v4",
-   "expansions":[
-      {
-         "key":".d",
-         "expansion":"@done(%Y-%m-%d)"
-      }
-   ]
+	"comment" : "TaskPaper functionality file for MultiMarkdown Composer v4 and nvUltra",
+	"expansions" : [
+		{
+				"key" : ".d",
+				"expansion" : "@done(%Y-%m-%d)"
+		},
+		{
+				"key" : ".w",
+				"expansion" : "@waiting"
+		},
+		{
+				"key" : ".today",
+				"comment" : "Filter uncompleted tasks that are due today",
+				"expansion" : "! Today @search(@due =[d] today or @today except @done)"
+		},
+		{
+				"key" : ".soon",
+				"comment" : "Filter uncompleted tasks that are due within the next 2 days",
+				"expansion" : "! Soon @search(\\(@due =[d] tomorrow union @due =[d] tomorrow +2 days\\) except @done)"
+		},
+		{
+				"key" : ".overdue",
+				"comment" : "Filter uncompleted tasks that are overdue",
+				"expansion" : "! Overdue @search(@due <[d] today except @done)"
+		},
+		{
+				"key" : ".next",
+				"comment" : "Show only next available actions",
+				"expansion" : "Next Actions @search(\\(project *//\\(@type = task and not @done\\)[0]\\))"
+		},
+		{
+				"key" : ".not",
+				"comment" : "Cleaner not done search",
+				"expansion" : "Not Done @search(project *//\\(@type = task and not @done\\))"
+		},
+		{
+				"key" : ".search",
+				"comment" : "Insert all of these saved searches",
+				"expansion" : "%snippet:.today%\n%snippet:.soon%\n%snippet:.overdue%\n%snippet:.next%\n%snippet:.not%"
+		}
+	]
 }
