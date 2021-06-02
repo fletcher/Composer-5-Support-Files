@@ -1,116 +1,124 @@
 {
-	"comment" : "Default Dark theme for MultiMarkdown Composer v4 by Fletcher T. Penney",
+    "darkWindow" : true,
+    "lightWindow" : false,
+    "transparentTitlebar" : true,
 
-	"windowBackgroundColor" : "333",
-	"darkWindow" : true,
+    "backgroundColor" : "#333",
+    "foregroundColor" : "#e9e7e2",
+    "caretColor" : "#00a8ff",
+    "selectionColor" : "#00c59b44",
 
-	"backgroundColor" : "3a3f3f",
-	"foregroundColor" : "e6ebeb",
+    "searchField" : {
+        "backgroundColor" : "#666"
+    },
 
-	"caretColor" : "def3f1",
-	"selectionColor" : "666",
+    "tableView" : {
+        "fontSize" : 14,
+        "rowHeight" : 34,
+        "drawBorder" : false,
+        "drawFocusRing": false
+    },
 
-	"searchfieldBackgroundColor" : "3a3f3f",
-	"searchfieldTextColor" : "ccc",
-	"searchfieldHighlightColor" : "666",
-	"searchfieldInsertionPointColor" : "def3f1",
+    "tableViewHighlighted" : {
+        "backgroundColor" : "#0096f8",
+        "foregroundColor" : "#ffffff"
+    },
 
-	"sidebarBackgroundColor" : "3a3f3f",
-	"sidebarTextColor" : "ccc",
-	"sidebarTextColorHighlighted" : "fff",
-	"sidebarTextColorHighlightedInactive" : "aaa",
-	"sidebarHighlightColor" : "becdde",
-	"sidebarHighlightColorInactive" : "4A5259",
-	"sidebarEditHighlightColor" : "666",
-	"sidebarEditInsertionPointColor" : "def3f1",
+    "tableViewInactive" : {
+        "backgroundColor" : "#dddddd",
+        "foregroundColor" : "#0096f8"
+    },
 
-	"strong" : {
-		"bold" : 1
-	},
-	"emphasis" : {
-		"italic" : 1
-	},
-	"superscript" : {
-		"superscript" : 1
-	},
-	"subscript" : {
-		"subscript" : 1
-	},
-	"criticAddition" : {
-		"foregroundColor" : "00bb00"
-	},
-	"criticDeletion" : {
-		"foregroundColor" : "bb0000"
-	},
-	"criticSubstitution" : {
-		"foregroundColor" : "cc6b00"
-	},
-	"criticHighlight" : {
-		"foregroundColor" : "aa53a9"
-	},
-	"criticComment" : {
-		"foregroundColor" : "6666cc"
-	},
-	"codeBlock" : {
-		"fontName" : "Courier",
-		"fontScale" : 0.92,
-		"foregroundColor" : "c8dada",
-		"backgroundColor" : "3b4347"
-	},
-	"codeSpan" : {
-		"fontName" : "Courier",
-		"fontScale" : 0.92,
-		"foregroundColor" : "c8dada",
-		"backgroundColor" : "3b4347",
-		"mono"  : 1
-	},
-	"heading" : {
-		"bold" : 1,
-		"backgroundColor" : "464c4c"
-	},
-	"math" : {
-		"foregroundColor" : "66737f"
-	},
-	"table" : {
-		"backgroundColor" : "2240607f"
-	},
-	"pairs_disabled" : {
-		"foregroundColor" : "e7e6d1"
-	},
-	"angles" : {
-		"foregroundColor" : "c0c6c8"
-	},
-	"braces" : {
-		"foregroundColor" : "c0c6c8"
-	},
-	"brackets" : {
-		"foregroundColor" : "c0c6c8"
-	},
-	"quoteDouble" : {
-		"foregroundColor" : "c0c6c8"
-	},
-	"quoteSingle" : {
-		"foregroundColor" : "c0c6c8"
-	},
-	"markup" : {
-		"foregroundColor" : "66737F"
-	},
-	"metadata" : {
-		"foregroundColor" : "999"
-	},
-	"definitionAbbreviation" : {
-		"foregroundColor" : "808b95"
-	},
-	"definitionCitation" : {
-		"foregroundColor" : "808b95"
-	},
-	"definitionFootnote" : {
-		"foregroundColor" : "808b95"
-	},
-	"definitionGlossary" : {
-		"foregroundColor" : "808b95"
-	},
-	"definitionLink" : {
-		"foregroundColor" : "808b95"
-	}
+    "textView" : {
+        "backgroundColor" : "#3a3f3f",
+        "selectionColor" : "#00c59b44",
+        "caretColor" : "#00a8ff"
+    },
+
+    "html" : {
+        "foregroundColor" : "#d56827"
+    },
+
+    "strong" : {
+        "bold" : 1
+    },
+    "emphasis" : {
+        "italic" : 1
+    },
+    "superscript" : {
+        "superscript" : 1
+    },
+    "subscript" : {
+        "superscript" : -1
+    },
+    "criticAddition" : {
+        "foregroundColor" : "00bb00"
+    },
+    "criticDeletion" : {
+        "foregroundColor" : "dd0000"
+    },
+    "criticSubstitution" : {
+        "foregroundColor" : "ff8600"
+    },
+    "criticHighlight" : {
+        "foregroundColor" : "aa53a9"
+    },
+    "criticComment" : {
+        "foregroundColor" : "0000bb"
+    },
+    "codeBlock" : {
+        "fontName" : "Menlo",
+        "fontScale" : 0.95,
+        "backgroundColor" : "333",
+        "textAlignment" : 1
+    },
+    "codeSpan" : {
+        "fontName" : "Menlo",
+        "fontScale" : 0.95,
+        "backgroundColor" : "666",
+        "mono"  : 1
+    },
+    "heading" : {
+        "bold" : 1
+    },
+    "math" : {
+        "foregroundColor" : "#22a7dc"
+    },
+    "table" : {
+        "backgroundColor" : "6a6a6a4a"
+    },
+    "pairs_disable" : {
+        "foregroundColor" : "#22a7dc"
+    },
+    "angles" : {
+        "foregroundColor" : "#d56827"
+    },
+    "braces" : {
+        "foregroundColor" : "#22a7dc"
+    },
+    "brackets" : {
+        "foregroundColor" : "#22a7dc",
+        "backgroundColor" : "#22a7dc11"
+    },
+    "markup" : {
+        "foregroundColor" : "#66737F"
+    },
+    "metadata" : {
+        "foregroundColor" : "#969999"
+    },
+    "definitionAbbreviation" : {
+        "foregroundColor" : "#22a7dc"
+    },
+    "definitionCitation" : {
+        "foregroundColor" : "#22a7dc"
+    },
+    "definitionFootnote" : {
+        "foregroundColor" : "#22a7dc"
+    },
+    "definitionGlossary" : {
+        "foregroundColor" : "#22a7dc"
+    },
+    "definitionLink" : {
+        "foregroundColor" : "#22a7dc"
+    }
 }
