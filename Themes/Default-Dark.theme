@@ -6,7 +6,7 @@
     "backgroundColor" : "#333",
     "foregroundColor" : "#e9e7e2",
     "caretColor" : "#00a8ff",
-    "selectionColor" : "#00c59b44",
+    "selectionBackgroundColor" : "#0096f844",
 
     "searchField" : {
         "backgroundColor" : "#666"
@@ -20,23 +20,22 @@
     },
 
     "tableViewHighlighted" : {
-        "backgroundColor" : "#0096f8",
+        "backgroundColor" : "#1DA2FA",
         "foregroundColor" : "#ffffff"
     },
 
     "tableViewInactive" : {
-        "backgroundColor" : "#dddddd",
-        "foregroundColor" : "#0096f8"
+        "backgroundColor" : "#E9E9E9",
+        "foregroundColor" : "#146DA7"
     },
 
     "textView" : {
         "backgroundColor" : "#3a3f3f",
-        "selectionColor" : "#00c59b44",
         "caretColor" : "#00a8ff"
     },
 
     "html" : {
-        "foregroundColor" : "#d56827"
+        "foregroundColor" : "#F0925B"
     },
 
     "strong" : {
@@ -82,43 +81,43 @@
         "bold" : 1
     },
     "math" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     },
     "table" : {
         "backgroundColor" : "6a6a6a4a"
     },
     "pairs_disable" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     },
     "angles" : {
-        "foregroundColor" : "#d56827"
+        "foregroundColor" : "#F0925B"
     },
     "braces" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     },
     "brackets" : {
-        "foregroundColor" : "#22a7dc",
-        "backgroundColor" : "#22a7dc11"
+        "foregroundColor" : "#25B5EE",
+        "backgroundColor" : "#25B5EE11"
     },
     "markup" : {
-        "foregroundColor" : "#66737F"
+        "foregroundColor" : "#7D8D9B"
     },
     "metadata" : {
         "foregroundColor" : "#969999"
     },
     "definitionAbbreviation" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     },
     "definitionCitation" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     },
     "definitionFootnote" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     },
     "definitionGlossary" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     },
     "definitionLink" : {
-        "foregroundColor" : "#22a7dc"
+        "foregroundColor" : "#25B5EE"
     }
 }

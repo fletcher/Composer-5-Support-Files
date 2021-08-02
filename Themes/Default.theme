@@ -2,13 +2,13 @@
     "lightWindow" : true,
     "transparentTitlebar" : true,
 
-    "backgroundColor" : "#ebebeb",
-    "foregroundColor" : "#403d33",
-    "caretColor" : "#1D8EBB",
-    "selectionColor" : "#999",
+    "backgroundColor" : "F2F2F2",
+    "foregroundColor" : "403d33",
+    "caretColor" : "1D8EBB",
+    "selectionBackgroundColor" : "0096f866",
 
     "searchField" : {
-        "backgroundColor" : "#fdfdfd"
+        "backgroundColor" : "fdfdfd"
     },
 
     "tableView" : {
@@ -19,22 +19,22 @@
     },
 
     "tableViewHighlighted" : {
-        "backgroundColor" : "#0096f8",
-        "foregroundColor" : "#ffffff"
+        "backgroundColor" : "0071BA",
+        "foregroundColor" : "ffffff"
     },
 
     "tableViewInactive" : {
-        "backgroundColor" : "#dddddd",
-        "foregroundColor" : "#0096f8"
+        "backgroundColor" : "dddddd",
+        "foregroundColor" : "0096f8"
     },
 
     "textView" : {
-        "backgroundColor" : "#fdfdfd",
-        "foregroundColor" : "#403d33"
+        "backgroundColor" : "fdfdfd",
+        "foregroundColor" : "403d33"
     },
 
     "html" : {
-        "foregroundColor" : "#d56827"
+        "foregroundColor" : "B75921"
     },
 
     "strong" : {
@@ -67,15 +67,15 @@
     "codeBlock" : {
         "fontName" : "Menlo",
         "fontScale" : 0.95,
-        "foregroundColor" : "31455E",
-        "backgroundColor" : "F6F6F7",
+        "foregroundColor" : "435F81",
+        "backgroundColor" : "E8EDF2",
         "textAlignment" : 1
     },
     "codeSpan" : {
         "fontName" : "Menlo",
         "fontScale" : 0.92,
-        "foregroundColor" : "31455E",
-        "backgroundColor" : "D7DCE0",
+        "foregroundColor" : "435F81",
+        "backgroundColor" : "E8EDF2",
         "mono"  : 1
     },
     "heading" : {
@@ -84,17 +84,17 @@
     "math" : {
     },
     "table" : {
-        "backgroundColor" : "F3F8F9"
+        "backgroundColor" : "A5D7E166"
     },
     "pairs" : {
     },
     "angles" : {
-        "foregroundColor" : "#d56827"
+        "foregroundColor" : "B75921"
     },
     "braces" : {
     },
     "brackets" : {
-        "foregroundColor" : "#1D8EBB"
+        "foregroundColor" : "126F94"
     },
     "parens" : {
     },
@@ -103,25 +103,25 @@
     "quoteSingle" : {
     },
     "markup" : {
-        "foregroundColor" : "#bbb"
+        "foregroundColor" : "8F8F8F"
     },
     "metadata" : {
-        "foregroundColor" : "#777",
-        "backgroundColor" : "#eee"
+        "foregroundColor" : "686868",
+        "backgroundColor" : "eee"
     },
     "definitionAbbreviation" : {
-        "foregroundColor" : "#1D8EBB"
+        "foregroundColor" : "1D8EBB"
     },
     "definitionCitation" : {
-        "foregroundColor" : "#1D8EBB"
+        "foregroundColor" : "1D8EBB"
     },
     "definitionFootnote" : {
-        "foregroundColor" : "#1D8EBB"
+        "foregroundColor" : "126F94"
     },
     "definitionGlossary" : {
-        "foregroundColor" : "#1D8EBB"
+        "foregroundColor" : "1D8EBB"
     },
     "definitionLink" : {
-        "foregroundColor" : "#1D8EBB"
+        "foregroundColor" : "1D8EBB"
     }
 }
