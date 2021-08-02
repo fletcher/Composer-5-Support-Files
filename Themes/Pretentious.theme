@@ -1,155 +1,170 @@
 {
-   "comment": "Pretentious theme by Brett Terpstra",
-   "darkWindow" : false,
-   "lightWindow" : true,
-   "transparentTitlebar" : false,
-
-   "backgroundColor" : "#f3f1e9",
-   "foregroundColor" : "#222",
-   "caretColor" : "#657b83",
-   "selectionColor" : "#657b8399",
-
-   "searchField" : {
-       "backgroundColor" : "#fcfcf7",
-       "foregroundColor" : "#333",
-       "selectionColor" : "#657b8399"
-   },
-
-   "tableView" : {
-       "fontSize" : 14,
-       "rowHeight" : 34,
-       "drawBorder" : false,
-       "drawFocusRing": false
-   },
-
-   "tableViewHighlighted" : {
-       "backgroundColor" : "#268bd2",
-       "foregroundColor" : "#666"
-   },
-
-   "tableViewInactive" : {
-       "backgroundColor" : "#bbdcf2",
-       "foregroundColor" : "#777"
-   },
-
-   "textView" : {
-       "backgroundColor" : "#f3f1e9",
-       "selectionColor" : "#00c59b44"
-   },
-
-   "criticAddition": {
-       "foregroundColor": "00bb00",
-       "markupForegroundColor": "00bb00"
-   },
-
-   "criticDeletion": {
-       "foregroundColor": "dd0000",
-       "markupForegroundColor": "dd0000"
-   },
-
-   "criticSubstitution": {
-       "foregroundColor": "ff8600",
-       "markupForegroundColor": "ff8600"
-   },
-
-   "criticHighlight": {
-       "foregroundColor": "aa53a9",
-       "markupForegroundColor": "aa53a9"
-   },
-
-   "criticComment": {
-       "foregroundColor": "0000bb",
-       "markupForegroundColor": "0000bb"
-   },
-   "codeBlock": {
-       "fontName": "Menlo",
-       "fontScale": 0.92,
-       "mono": 1,
-       "foregroundColor": "4c6c78",
-       "backgroundColor": "e1e6e2"
-   },
-   "codeSpan": {
-       "fontName": "Menlo",
-       "fontScale": 0.92,
-       "foregroundColor": "4c6c78",
-       "backgroundColor": "e1e6e2",
-       "mono": 1
-   },
-   "emphasis": {
-       "italic": 1
-   },
-   "strong": {
-       "bold": 1
-   },
-   "strongAndEmphasis": {
-       "bold": 1,
-       "italic": 1
-   },
-   "blockquote": {
-       "foregroundColor": "777"
-   },
-
-   "braces": {
-       "foregroundColor": "789ca2"
-   },
-
-   "brackets": {
-       "foregroundColor": "7397a6"
-   },
-
-   "parens": {
-       "foregroundColor": "4c6366"
-   },
-
-   "angles": {
-       "foregroundColor": "5EA1AA"
-   },
-   "math": {
-       "fontName": "Menlo",
-       "fontScale": 0.92,
-       "mono": 1,
-       "foregroundColor": "777"
-   },
-   "quoteSingle": {
-       "foregroundColor": "222"
-   },
-   "quoteDouble": {
-       "foregroundColor": "222"
-   },
-   "metadata" : {
-       "foregroundColor" : "777"
-   },
-   "heading": {
-       "backgroundColor": "e1e2d1",
-       "foregroundColor": "50565d",
-       "underline": 0
-   },
-   "heading1": {
-       "bold": 1,
-       "underline": 1
-   },
-   "heading2": {
-       "underline": 1
-   },
-   "heading3": {
-       "italic": 1
-   },
-   "heading4": {
-       "backgroundColor": "ebebdf"
-   },
-   "heading5": {
-       "backgroundColor": "ebebdf"
-   },
-   "heading6": {
-       "backgroundColor": "ebebdf"
-   },
-   "bulletList": {},
-   "orderedList": {},
-   "listItemDisabled": {
-       "backgroundColor": "2240607F"
-   },
-   "table": {
-       "foregroundColor": "4c6c78",
-       "backgroundColor": "e1e6e2"
-   }
+    "comment": "Pretentious theme by Brett Terpstra",
+    "darkWindow": false,
+    "lightWindow": true,
+    "transparentTitlebar": false,
+    "backgroundColor": "#f3f1e9",
+    "foregroundColor": "#222",
+    "caretColor": "#007494",
+    "selectionBackgroundColor": "#00acda55",
+    "searchField":
+    {
+        "backgroundColor": "#fcfcf7",
+        "foregroundColor": "#333"
+    },
+    "tableView":
+    {
+        "fontSize": 14,
+        "rowHeight": 34,
+        "drawBorder": false,
+        "drawFocusRing": false
+    },
+    "tableViewHighlighted":
+    {
+        "backgroundColor": "#007695",
+        "foregroundColor": "#efefef"
+    },
+    "tableViewInactive":
+    {
+        "backgroundColor": "#c7d4d7",
+        "foregroundColor": "#585858"
+    },
+    "textView":
+    {
+        "backgroundColor": "#fcfaf1"
+    },
+    "criticAddition":
+    {
+        "foregroundColor": "#008100"
+    },
+    "criticDeletion":
+    {
+        "foregroundColor": "#dd0000"
+    },
+    "criticSubstitution":
+    {
+        "foregroundColor": "#ad5b00"
+    },
+    "criticHighlight":
+    {
+        "backgroundColor": "#f7f7a2",
+        "foregroundColor": "#496874"
+    },
+    "criticComment":
+    {
+        "backgroundColor": "#c7d4d766",
+        "foregroundColor": "#4e4e49"
+    },
+    "codeBlock":
+    {
+        "fontName": "Menlo",
+        "fontScale": 0.92,
+        "mono": 1,
+        "foregroundColor": "#496874",
+        "backgroundColor": "#e1e6e2"
+    },
+    "codeSpan":
+    {
+        "fontName": "Menlo",
+        "fontScale": 0.92,
+        "foregroundColor": "#496874",
+        "backgroundColor": "#e1e6e2",
+        "mono": 1
+    },
+    "emphasis":
+    {
+        "italic": 1
+    },
+    "strong":
+    {
+        "bold": 1
+    },
+    "strongAndEmphasis":
+    {
+        "bold": 1,
+        "italic": 1
+    },
+    "blockquote":
+    {
+        "foregroundColor": "#777"
+    },
+    "braces":
+    {
+        "foregroundColor": "#789ca2"
+    },
+    "brackets":
+    {
+        "foregroundColor": "#4d798b"
+    },
+    "parens":
+    {
+        "foregroundColor": "#4c6366"
+    },
+    "angles":
+    {
+        "foregroundColor": "#297e89"
+    },
+    "math":
+    {
+        "fontName": "Menlo",
+        "fontScale": 0.92,
+        "mono": 1,
+        "foregroundColor": "#777"
+    },
+    "quoteSingle":
+    {
+        "foregroundColor": "#222"
+    },
+    "quoteDouble":
+    {
+        "foregroundColor": "#222"
+    },
+    "metadata":
+    {
+        "foregroundColor": "#777"
+    },
+    "heading":
+    {
+        "backgroundColor": "#e1e2d1",
+        "foregroundColor": "#50565d",
+        "underline": 0
+    },
+    "heading1":
+    {
+        "bold": 1,
+        "underline": 1
+    },
+    "heading2":
+    {
+        "underline": 1
+    },
+    "heading3":
+    {
+        "italic": 1
+    },
+    "heading4":
+    {
+        "backgroundColor": "#ebebdf"
+    },
+    "heading5":
+    {
+        "backgroundColor": "#ebebdf"
+    },
+    "heading6":
+    {
+        "backgroundColor": "#ebebdf"
+    },
+    "bulletList":
+    {},
+    "orderedList":
+    {},
+    "listItemDisabled":
+    {
+        "backgroundColor": "#2240607f"
+    },
+    "table":
+    {
+        "foregroundColor": "#496874",
+        "backgroundColor": "#e1e6e2"
+    }
 }

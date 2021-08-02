@@ -1,26 +1,26 @@
 {
 	"comment" : "Minimalist theme for nvUltra designed for printing documents by Fletcher T. Penney",
 
-	"windowBackgroundColor" : "ececeb",
+	"windowBackgroundColor" : "#ececeb",
 
-	"backgroundColor" : "fefefe",
-	"foregroundColor" : "222",
+	"backgroundColor" : "#fefefe",
+	"foregroundColor" : "#222",
 
-	"caretColor" : "000",
-	"selectionColor" : "999",
+	"caretColor" : "#000",
+	"selectionColor" : "#999",
 
-	"searchfieldBackgroundColor" : "ececeb",
-	"searchfieldTextColor" : "000000",
-	"searchfieldHighlightColor" : "999",
-	"searchfieldInsertionPointColor" : "000",
+	"searchfieldBackgroundColor" : "#ececeb",
+	"searchfieldTextColor" : "#000000",
+	"searchfieldHighlightColor" : "#999",
+	"searchfieldInsertionPointColor" : "#000",
 
-	"sidebarBackgroundColor" : "ececeb",
-	"sidebarTextColor" : "000",
-	"sidebarTextColorHighlighted" : "444",
-	"sidebarTextColorHighlightedInactive" : "666",
-	"sidebarHighlightColor" : "38afec",
-	"sidebarHighlightColorInactive" : "c8dedf",
-	"sidebarEditHighlightColor" : "999",
+	"sidebarBackgroundColor" : "#ececeb",
+	"sidebarTextColor" : "#000",
+	"sidebarTextColorHighlighted" : "#444",
+	"sidebarTextColorHighlightedInactive" : "#666",
+	"sidebarHighlightColor" : "#38afec",
+	"sidebarHighlightColorInactive" : "#c8dedf",
+	"sidebarEditHighlightColor" : "#999",
 
 	"fontSize" : 11,
 	"strong" : {
@@ -36,19 +36,19 @@
 		"superscript" : -1
 	},
 	"criticAddition" : {
-		"foregroundColor" : "00bb00"
+		"foregroundColor" : "#00bb00"
 	},
 	"criticDeletion" : {
-		"foregroundColor" : "dd0000"
+		"foregroundColor" : "#dd0000"
 	},
 	"criticSubstitution" : {
-		"foregroundColor" : "ff8600"
+		"foregroundColor" : "#ff8600"
 	},
 	"criticHighlight" : {
-		"foregroundColor" : "aa53a9"
+		"foregroundColor" : "#aa53a9"
 	},
 	"criticComment" : {
-		"foregroundColor" : "0000bb"
+		"foregroundColor" : "#0000bb"
 	},
 	"blockquote" : {
 		"leftIndent" : 30.0,
@@ -69,7 +69,7 @@
 		"bold" : 1
 	},
 	"markup" : {
-		"foregroundColor" : "93a1a1"
+		"foregroundColor" : "#93a1a1"
 	},
 	"math" : {
 	},

@@ -1,124 +1,146 @@
 {
-    "darkWindow" : true,
-    "lightWindow" : false,
-    "transparentTitlebar" : true,
-
-    "backgroundColor" : "#333",
-    "foregroundColor" : "#e9e7e2",
-    "caretColor" : "#00a8ff",
-    "selectionColor" : "#00c59b44",
-
-    "searchField" : {
-        "backgroundColor" : "#666"
+    "darkWindow": true,
+    "lightWindow": false,
+    "transparentTitlebar": true,
+    "backgroundColor": "#333",
+    "foregroundColor": "#e9e7e2",
+    "caretColor": "#00a8ff",
+    "selectionBackgroundColor": "#0096f844",
+    "searchField":
+    {
+        "backgroundColor": "#666"
     },
-
-    "tableView" : {
-        "fontSize" : 14,
-        "rowHeight" : 34,
-        "drawBorder" : false,
+    "tableView":
+    {
+        "fontSize": 14,
+        "rowHeight": 34,
+        "drawBorder": false,
         "drawFocusRing": false
     },
-
-    "tableViewHighlighted" : {
-        "backgroundColor" : "#0096f8",
-        "foregroundColor" : "#ffffff"
+    "tableViewHighlighted":
+    {
+        "backgroundColor": "#1da2fa",
+        "foregroundColor": "#ffffff"
     },
-
-    "tableViewInactive" : {
-        "backgroundColor" : "#dddddd",
-        "foregroundColor" : "#0096f8"
+    "tableViewInactive":
+    {
+        "backgroundColor": "#e9e9e9",
+        "foregroundColor": "#146da7"
     },
-
-    "textView" : {
-        "backgroundColor" : "#3a3f3f",
-        "selectionColor" : "#00c59b44",
-        "caretColor" : "#00a8ff"
+    "textView":
+    {
+        "backgroundColor": "#3a3f3f",
+        "caretColor": "#00a8ff"
     },
-
-    "html" : {
-        "foregroundColor" : "#d56827"
+    "html":
+    {
+        "foregroundColor": "#f0925b"
     },
-
-    "strong" : {
-        "bold" : 1
+    "strong":
+    {
+        "bold": 1
     },
-    "emphasis" : {
-        "italic" : 1
+    "emphasis":
+    {
+        "italic": 1
     },
-    "superscript" : {
-        "superscript" : 1
+    "superscript":
+    {
+        "superscript": 1
     },
-    "subscript" : {
-        "superscript" : -1
+    "subscript":
+    {
+        "superscript": -1
     },
-    "criticAddition" : {
-        "foregroundColor" : "00bb00"
+    "criticAddition":
+    {
+        "foregroundColor": "#00c700"
     },
-    "criticDeletion" : {
-        "foregroundColor" : "dd0000"
+    "criticDeletion":
+    {
+        "foregroundColor": "#ff8686"
     },
-    "criticSubstitution" : {
-        "foregroundColor" : "ff8600"
+    "criticSubstitution":
+    {
+        "foregroundColor": "#f0952f"
     },
-    "criticHighlight" : {
-        "foregroundColor" : "aa53a9"
+    "criticHighlight":
+    {
+        "foregroundColor": "#da8fd9"
     },
-    "criticComment" : {
-        "foregroundColor" : "0000bb"
+    "criticComment":
+    {
+        "foregroundColor": "#a4a4e5"
     },
-    "codeBlock" : {
-        "fontName" : "Menlo",
-        "fontScale" : 0.95,
-        "backgroundColor" : "333",
-        "textAlignment" : 1
+    "codeBlock":
+    {
+        "fontName": "Menlo",
+        "fontScale": 0.95,
+        "backgroundColor": "#333",
+        "textAlignment": 1
     },
-    "codeSpan" : {
-        "fontName" : "Menlo",
-        "fontScale" : 0.95,
-        "backgroundColor" : "666",
-        "mono"  : 1
+    "codeSpan":
+    {
+        "fontName": "Menlo",
+        "fontScale": 0.95,
+        "backgroundColor": "#666",
+        "mono": 1
     },
-    "heading" : {
-        "bold" : 1
+    "heading":
+    {
+        "bold": 1
     },
-    "math" : {
-        "foregroundColor" : "#22a7dc"
+    "math":
+    {
+        "foregroundColor": "#25b5ee"
     },
-    "table" : {
-        "backgroundColor" : "6a6a6a4a"
+    "table":
+    {
+        "backgroundColor": "#6a6a6a4a"
     },
-    "pairs_disable" : {
-        "foregroundColor" : "#22a7dc"
+    "pairs_disable":
+    {
+        "foregroundColor": "#25b5ee"
     },
-    "angles" : {
-        "foregroundColor" : "#d56827"
+    "angles":
+    {
+        "foregroundColor": "#f0925b"
     },
-    "braces" : {
-        "foregroundColor" : "#22a7dc"
+    "braces":
+    {
+        "foregroundColor": "#25b5ee"
     },
-    "brackets" : {
-        "foregroundColor" : "#22a7dc",
-        "backgroundColor" : "#22a7dc11"
+    "brackets":
+    {
+        "foregroundColor": "#25b5ee",
+        "backgroundColor": "#25b5ee11"
     },
-    "markup" : {
-        "foregroundColor" : "#66737F"
+    "markup":
+    {
+        "foregroundColor": "#7d8d9b"
     },
-    "metadata" : {
-        "foregroundColor" : "#969999"
+    "metadata":
+    {
+        "foregroundColor": "#969999"
     },
-    "definitionAbbreviation" : {
-        "foregroundColor" : "#22a7dc"
+    "definitionAbbreviation":
+    {
+        "foregroundColor": "#25b5ee"
     },
-    "definitionCitation" : {
-        "foregroundColor" : "#22a7dc"
+    "definitionCitation":
+    {
+        "foregroundColor": "#25b5ee"
     },
-    "definitionFootnote" : {
-        "foregroundColor" : "#22a7dc"
+    "definitionFootnote":
+    {
+        "foregroundColor": "#25b5ee"
     },
-    "definitionGlossary" : {
-        "foregroundColor" : "#22a7dc"
+    "definitionGlossary":
+    {
+        "foregroundColor": "#25b5ee"
     },
-    "definitionLink" : {
-        "foregroundColor" : "#22a7dc"
+    "definitionLink":
+    {
+        "foregroundColor": "#25b5ee"
     }
 }
