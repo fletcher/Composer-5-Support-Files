@@ -18,7 +18,8 @@
         "rowHeight" : 34,
         "drawFocusRing" : false,
         "drawBorder" : false,
-        "horizontalPadding" : 0
+        "horizontalPadding" : 8,
+        "verticalPadding" : 0
     },
 
     "tableViewHighlighted" : {
