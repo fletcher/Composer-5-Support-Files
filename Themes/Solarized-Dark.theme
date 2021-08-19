@@ -21,7 +21,8 @@
         "fontSize" : 14,
         "rowHeight" : 34,
         "drawBorder" : false,
-        "drawFocusRing": false
+        "drawFocusRing": false,
+        "horizontalPadding" : 0
     },
 
     "tableViewHighlighted" : {
