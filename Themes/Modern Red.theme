@@ -52,81 +52,81 @@
         "superscript" : -1
     },
     "criticAddition" : {
-        "foregroundColor" : "00bb00"
+        "foregroundColor" : "#007A00"
     },
     "criticDeletion" : {
-        "foregroundColor" : "dd0000"
+        "foregroundColor" : "#D60000"
     },
     "criticSubstitution" : {
-        "foregroundColor" : "ff8600"
+        "foregroundColor" : "#9E5300"
     },
     "criticHighlight" : {
-        "foregroundColor" : "aa53a9"
+        "foregroundColor" : "#974A96"
     },
     "criticComment" : {
-        "foregroundColor" : "0000bb"
+        "foregroundColor" : "#0000bb"
     },
     "codeBlock" : {
         "fontName" : "Courier",
         "fontScale" : 0.92,
-        "foregroundColor" : "31455E",
-        "backgroundColor" : "D6DBDF",
+        "foregroundColor" : "#31455E",
+        "backgroundColor" : "#D6DBDF",
         "textAlignment" : 1
     },
     "codeSpan" : {
         "fontName" : "Courier",
         "fontScale" : 0.92,
-        "foregroundColor" : "31455E",
-        "backgroundColor" : "D6DBDF",
+        "foregroundColor" : "#31455E",
+        "backgroundColor" : "#D6DBDF",
         "mono"  : 1
     },
     "heading" : {
         "bold" : 1,
-        "backgroundColor" : "D6DBDF"
+        "backgroundColor" : "#D6DBDF"
     },
     "math" : {
-        "foregroundColor" : "40607f"
+        "foregroundColor" : "#40607f"
     },
     "table" : {
-        "backgroundColor" : "D6DBDF"
+        "backgroundColor" : "#D6DBDF"
     },
     "pairs_disable" : {
-        "foregroundColor" : "40607F"
+        "foregroundColor" : "#40607F"
     },
     "angles" : {
-        "foregroundColor" : "40607F"
+        "foregroundColor" : "#40607F"
     },
     "braces" : {
-        "foregroundColor" : "40607F"
+        "foregroundColor" : "#40607F"
     },
     "brackets" : {
-        "foregroundColor" : "40607F"
+        "foregroundColor" : "#40607F"
     },
     "quoteDouble" : {
-        "foregroundColor" : "40607F"
+        "foregroundColor" : "#40607F"
     },
     "quoteSingle" : {
-        "foregroundColor" : "40607F"
+        "foregroundColor" : "#40607F"
     },
     "markup" : {
-        "foregroundColor" : "40607F"
+        "foregroundColor" : "#40607F"
     },
     "metadata" : {
-        "foregroundColor" : "777"
+        "foregroundColor" : "#777"
     },
     "definitionAbbreviation" : {
-        "foregroundColor" : "385070"
+        "foregroundColor" : "#385070"
     },
     "definitionCitation" : {
-        "foregroundColor" : "385070"
+        "foregroundColor" : "#385070"
     },
     "definitionFootnote" : {
-        "foregroundColor" : "385070"
+        "foregroundColor" : "#385070"
     },
     "definitionGlossary" : {
-        "foregroundColor" : "385070"
+        "foregroundColor" : "#385070"
     },
     "definitionLink" : {
-        "foregroundColor" : "385070"
+        "foregroundColor" : "#385070"
     }
 }
