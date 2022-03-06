@@ -1,3 +1,1576 @@
 {
-    
+   "darkWindow" : null,
+    "lightWindow" : null,
+    "transparentTitlebar" : null,
+
+    "backgroundColor" : null,
+    "foregroundColor" : null,
+
+    "caretColor" : null,
+    "selectionForegroundColor" : null,
+    "selectionBackgroundColor" : null,
+
+    "drawFocusRing" : null,
+    "drawBorder" : null,
+
+    "fontName" : null,
+    "fontSize" : null,
+    "fontScale" : null,
+
+    "horizontalPadding" : null,
+    "verticalPadding" : null,
+    "rowHeight" : null,
+
+    "searchField" : {
+        "backgroundColor" : null,
+        "foregroundColor" : null,
+
+        "caretColor" : null,
+        "selectionForegroundColor" : null,
+        "selectionBackgroundColor" : null,
+
+        "drawFocusRing" : null,
+        "drawBorder" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "horizontalPadding" : null,
+        "verticalPadding" : null,
+        "rowHeight" : null
+    },
+
+    "tableView" : {
+        "backgroundColor" : null,
+        "foregroundColor" : null,
+
+        "caretColor" : null,
+        "selectionForegroundColor" : null,
+        "selectionBackgroundColor" : null,
+
+        "drawFocusRing" : null,
+        "drawBorder" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "horizontalPadding" : null,
+        "verticalPadding" : null,
+        "rowHeight" : null
+    },
+
+    "tableViewHighlighted" : {
+        "backgroundColor" : null,
+        "foregroundColor" : null,
+
+        "caretColor" : null,
+        "selectionForegroundColor" : null,
+        "selectionBackgroundColor" : null,
+
+        "drawFocusRing" : null,
+        "drawBorder" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "horizontalPadding" : null,
+        "verticalPadding" : null,
+        "rowHeight" : null
+    },
+
+    "tableViewInactive" : {
+        "backgroundColor" : null,
+        "foregroundColor" : null,
+
+        "caretColor" : null,
+        "selectionForegroundColor" : null,
+        "selectionBackgroundColor" : null,
+
+        "drawFocusRing" : null,
+        "drawBorder" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "horizontalPadding" : null,
+        "verticalPadding" : null,
+        "rowHeight" : null
+    },
+
+    "textView" : {
+        "backgroundColor" : null,
+        "foregroundColor" : null,
+
+        "caretColor" : null,
+        "selectionForegroundColor" : null,
+        "selectionBackgroundColor" : null,
+
+        "drawFocusRing" : null,
+        "drawBorder" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "horizontalPadding" : null,
+        "verticalPadding" : null,
+        "rowHeight" : null
+    },
+
+    "window" : {
+        "backgroundColor" : null,
+        "foregroundColor" : null,
+
+        "caretColor" : null,
+        "selectionForegroundColor" : null,
+        "selectionBackgroundColor" : null,
+
+        "drawFocusRing" : null,
+        "drawBorder" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "horizontalPadding" : null,
+        "verticalPadding" : null,
+        "rowHeight" : null
+    },
+
+
+    "# Blocks #" : {},
+
+    "blockquote" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "codeBlock" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "definition" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "definitionList" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "metadata" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "table" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# CriticMarkup #" : {},
+
+    "criticAddition" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "criticComment" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "criticDeletion" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "criticHighlight" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "criticSubstitution" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# HTML #" : {},
+
+    "html" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "htmlComment" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Headings #" : {},
+
+    "heading" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "heading1" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "heading2" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "heading3" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "heading4" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "heading5" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "heading6" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Lists #" : {},
+
+    "bulletList" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "listItem" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "orderedList" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Markup #" : {},
+
+    "hr" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "markup" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "toc" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Math #" : {},
+
+    "math" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Paired Parentheses #" : {},
+
+    "linkParens" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Pairs #" : {},
+
+    "angles" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "braces" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "bracesDouble" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "brackets" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "pairs" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "parens" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "quoteDouble" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "quoteSingle" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Pairs - Brackets #" : {},
+
+    "abbreviation" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "citation" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "footnote" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "glossary" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "image" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "variable" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# References #" : {},
+
+    "definitionAbbreviation" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "definitionCitation" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "definitionFootnote" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "definitionGlossary" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "definitionLink" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "# Spans #" : {},
+
+    "codeSpan" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "emphasis" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "strong" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "subscript" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "superscript" : {
+        "foregroundColor" : null,
+        "backgroundColor" : null,
+        "markupForegroundColor" : null,
+        "markupBackgroundColor" : null,
+
+        "bold" : null,
+        "italic" : null,
+        "mono" : null,
+        "superscript" : null,
+        "underline" : null,
+
+        "fontName" : null,
+        "fontSize" : null,
+        "fontScale" : null,
+
+        "leftIndent" : null,
+        "leftFirstIndent" : null,
+        "rightIndent" : null,
+        "paraSpace" : null,
+        "paraSpaceBefore" : null,
+
+        "textAlignment" : null,
+        "writingDirection" : null
+    },
+
+
+    "nonfunctional" : {
+
+    }
 }
